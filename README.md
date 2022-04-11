@@ -1,4 +1,4 @@
-# EzoicTakeHome
+# ChatApp
 
 ## public Folder Purpose 
 public folder contains front end css/html/js
@@ -19,7 +19,7 @@ the server.js file contains backend work related to our project
 VS Code
 
 ## Steps to Import project into IDE:
-Use the git clone https://github.com/JoshLikesToCode/EzoicTakeHome.git in terminal
+Use the git clone https://github.com/JoshLikesToCode/chatApp.git in terminal
 
 ## Steps to Build & Run your Project:
 Once project has been properly cloned, launch your IDE of choice and load the project. In your IDE terminal, type in the command: 'npm run dev' and nodemon will launch the server. Then navigate to localhost:3000 to interact with the application.
