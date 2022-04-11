@@ -1,0 +1,28 @@
+{
+  "name": "ezoictakehome",
+  "version": "1.0.0",
+  "description": "Chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshLikesToCode/chatApp.git"
+  },
+  "author": "Josh Stone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshLikesToCode/chatApp.git"
+  },
+  "homepage": "https://github.com/JoshLikesToCode/chatApp#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
